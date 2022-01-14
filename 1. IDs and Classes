@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Writing Selectors Exercise</title>
+  <style>
+    #menu
+      {
+      text-align: center;
+    }
+
+    .item
+      {
+      color: red;
+    }
+
+    .description
+      {
+      border-radius: 5px;
+    }
+
+    .description
+      {
+      font-style: italic;
+    }
+  </style>
+</head>
+<body>
+  <div id="menu">
+    <h1 class="item">Chicken Clay Pot</h1>
+    <img src="https://assets.bonappetit.com/photos/602c1aa8ddbee1d008caf328/master/pass/GoLive-Clay-Pot-Chicken.jpg" alt="clay pot" class="picture">
+    <p class="description">Crispy rice baked in clay pot topped with chicken and vegetables</p>
+    <a href="https://www.bonappetit.com/recipe/bo-zai-fan-chinese-chicken-and-mushroom-clay-pot-rice">[Source]</a>
+  </div>
+</body>
+</html>
